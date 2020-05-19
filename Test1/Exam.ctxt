@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=e
+comment1.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment2.params=r1\ r2\ c1\ c2
+comment2.target=boolean\ valid(int,\ int,\ int,\ int)
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+numComments=4

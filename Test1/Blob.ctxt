@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=e
+comment1.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=color\ row\ col
+comment3.target=void\ changeColor(java.awt.Color,\ int,\ int)
+comment4.params=color\ row\ col
+comment4.target=void\ toggleColors(java.awt.Color,\ int,\ int)
+numComments=5

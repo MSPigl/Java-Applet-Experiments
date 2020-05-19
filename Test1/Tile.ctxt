@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=lowX\ lowY\ highX\ highY
+comment0.target=Tile(int,\ int,\ int,\ int)
+comment1.params=i\ j
+comment1.target=void\ setLocation(int,\ int)
+numComments=2

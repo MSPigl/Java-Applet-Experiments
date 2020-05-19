@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=inputImagePath\ outputImagePath\ scaledWidth\ scaledHeight
+comment0.target=void\ resize(java.lang.String,\ java.lang.String,\ int,\ int)
+comment0.text=\r\n\ Resizes\ an\ image\ to\ a\ absolute\ width\ and\ height\ (the\ image\ may\ not\ be\r\n\ proportional)\r\n\ @param\ inputImagePath\ Path\ of\ the\ original\ image\r\n\ @param\ outputImagePath\ Path\ to\ save\ the\ resized\ image\r\n\ @param\ scaledWidth\ absolute\ width\ in\ pixels\r\n\ @param\ scaledHeight\ absolute\ height\ in\ pixels\r\n\ @throws\ IOException\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Test\ resizing\ images\r\n
+numComments=2

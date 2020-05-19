@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BouncingBallSimple()
+comment0.text=Constructor\ to\ create\ the\ UI\ components\ and\ init\ game\ objects.
+comment1.params=
+comment1.target=void\ run()
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment2.text=Custom\ rendering\ codes\ for\ drawing\ the\ JPanel
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=main\ program\ (entry\ point)
+comment4.params=
+comment4.target=void\ run()
+numComments=5
